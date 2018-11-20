@@ -1,5 +1,10 @@
-# Controlling a sphero robot with a Raspberry Pi & AWS IoT Cloud
-
+# Controlling a sphero with a RaspberryPi & AWS IoT Cloud
+<p align="center">
+  <img width="50" height="50" src="https://github.com/iggydv/AWS-iot-robots/blob/master/images/Iot.png">
+  <img width="50" height="50" src="https://github.com/iggydv/AWS-iot-robots/blob/master/images/iot-cloud.png">
+  <img width="50" height="60" src="https://github.com/iggydv/AWS-iot-robots/blob/master/images/pi.png">
+  <img width="50" height="50" src="https://github.com/iggydv/AWS-iot-robots/blob/master/images/sphero.png">
+</p>
 
 The robot that was used, was a [Sphero Sprk+](https://www.sphero.com/sphero-sprk-plus). Sphero is a Bluetooth Low Energy (BLE) device that can move around and change colour. It has a top speed of 2 meters per second (!) and you'd be surprised to see how much it can do.
 
